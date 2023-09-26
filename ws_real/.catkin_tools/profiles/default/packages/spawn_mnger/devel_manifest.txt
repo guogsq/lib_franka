@@ -1,0 +1,5 @@
+spawn_mnger
+/home/shuqi/ws_real/devel/.private/spawn_mnger/cmake.lock /home/shuqi/ws_real/devel/./cmake.lock
+/home/shuqi/ws_real/devel/.private/spawn_mnger/share/spawn_mnger/cmake/spawn_mngerConfig.cmake /home/shuqi/ws_real/devel/share/spawn_mnger/cmake/spawn_mngerConfig.cmake
+/home/shuqi/ws_real/devel/.private/spawn_mnger/share/spawn_mnger/cmake/spawn_mngerConfig-version.cmake /home/shuqi/ws_real/devel/share/spawn_mnger/cmake/spawn_mngerConfig-version.cmake
+/home/shuqi/ws_real/devel/.private/spawn_mnger/lib/pkgconfig/spawn_mnger.pc /home/shuqi/ws_real/devel/lib/pkgconfig/spawn_mnger.pc

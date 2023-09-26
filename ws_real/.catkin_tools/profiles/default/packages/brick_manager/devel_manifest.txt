@@ -1,0 +1,5 @@
+brick_manager
+/home/shuqi/ws_real/devel/.private/brick_manager/cmake.lock /home/shuqi/ws_real/devel/./cmake.lock
+/home/shuqi/ws_real/devel/.private/brick_manager/share/brick_manager/cmake/brick_managerConfig.cmake /home/shuqi/ws_real/devel/share/brick_manager/cmake/brick_managerConfig.cmake
+/home/shuqi/ws_real/devel/.private/brick_manager/share/brick_manager/cmake/brick_managerConfig-version.cmake /home/shuqi/ws_real/devel/share/brick_manager/cmake/brick_managerConfig-version.cmake
+/home/shuqi/ws_real/devel/.private/brick_manager/lib/pkgconfig/brick_manager.pc /home/shuqi/ws_real/devel/lib/pkgconfig/brick_manager.pc

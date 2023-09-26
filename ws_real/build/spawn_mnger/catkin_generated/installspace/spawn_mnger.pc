@@ -1,0 +1,8 @@
+prefix=/home/shuqi/ws_real/install
+
+Name: spawn_mnger
+Description: Description of spawn_mnger
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

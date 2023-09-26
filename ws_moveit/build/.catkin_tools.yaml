@@ -1,0 +1,6 @@
+devel_space: /home/shuqi/ws_moveit/devel
+install: false
+install_space: /home/shuqi/ws_moveit/install
+profile: default
+source_space: /home/shuqi/ws_moveit/src
+workspace: /home/shuqi/ws_moveit

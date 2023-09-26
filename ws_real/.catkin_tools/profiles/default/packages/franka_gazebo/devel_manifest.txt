@@ -1,0 +1,5 @@
+franka_gazebo
+/home/shuqi/ws_real/devel/.private/franka_gazebo/cmake.lock /home/shuqi/ws_real/devel/./cmake.lock
+/home/shuqi/ws_real/devel/.private/franka_gazebo/share/franka_gazebo/cmake/franka_gazeboConfig.cmake /home/shuqi/ws_real/devel/share/franka_gazebo/cmake/franka_gazeboConfig.cmake
+/home/shuqi/ws_real/devel/.private/franka_gazebo/share/franka_gazebo/cmake/franka_gazeboConfig-version.cmake /home/shuqi/ws_real/devel/share/franka_gazebo/cmake/franka_gazeboConfig-version.cmake
+/home/shuqi/ws_real/devel/.private/franka_gazebo/lib/pkgconfig/franka_gazebo.pc /home/shuqi/ws_real/devel/lib/pkgconfig/franka_gazebo.pc

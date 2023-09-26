@@ -1,0 +1,8 @@
+prefix=/home/shuqi/ws_real/devel
+
+Name: brick_manager
+Description: Description of brick_manager
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
